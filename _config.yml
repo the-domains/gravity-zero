@@ -14,15 +14,15 @@ collections:
       path: '/:title/'
 color:
   saturation: 0.5017921
-  brandStrength: 1
-  rhythmicContrast: 1
+  brandStrength: 0.4014337
+  lightness: 1
   brandColors:
     - '#82b83c'
     - '#7cb63a'
     - '#7eb63d'
     - '#74b92e'
     - '#80b637'
-  lightness: 1
+  rhythmicContrast: 1
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: Gravity Zero
+favicon: null
 opengraph:
   image: null
   type: null
