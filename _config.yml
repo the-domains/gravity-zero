@@ -15,7 +15,7 @@ collections:
 color:
   saturation: 0.5017921
   brandStrength: 1
-  lightness: 0
+  lightness: 1
   brandColors:
     - '#82b83c'
     - '#7cb63a'
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: Gravity Zero
 favicon: null
+name: Gravity Zero
 opengraph:
   image: null
   type: null
