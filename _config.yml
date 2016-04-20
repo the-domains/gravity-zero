@@ -6,23 +6,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 color:
   saturation: 0.5017921
   brandStrength: 0.4014337
-  lightness: 1
+  rhythmicContrast: 1
   brandColors:
     - '#82b83c'
     - '#7cb63a'
     - '#7eb63d'
     - '#74b92e'
     - '#80b637'
-  rhythmicContrast: 1
+  lightness: 1
 cta:
   bucket: null
   version: null
@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: Gravity Zero
 favicon: null
+name: Gravity Zero
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.4265233
-layout_spectrum: 0
+layout_spectrum: 0.7939068
