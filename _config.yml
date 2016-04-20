@@ -1,41 +1,41 @@
-name: Gravity Zero
-favicon: null
-layout_spectrum: 0.24374
-typography_spectrum: 0.24952
 title: Gravity Zero
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
+  saturation: 0.5017921
+  brandStrength: 1
+  lightness: 0
   brandColors:
     - '#82b83c'
     - '#7cb63a'
     - '#7eb63d'
     - '#74b92e'
     - '#80b637'
-  brandStrength: 1
-  lightness: 0.469534
-  saturation: 0.5017921
   rhythmicContrast: 0.556433
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Gravity Zero
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.24952
+layout_spectrum: 0.24374
