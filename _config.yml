@@ -1,7 +1,7 @@
 name: Gravity Zero
 favicon: null
-layout_spectrum: 0.00207
-typography_spectrum: 0.24566
+layout_spectrum: 0.24812
+typography_spectrum: 0.49786
 title: Gravity Zero
 collections:
   - index:
@@ -34,8 +34,8 @@ color:
     - '#7eb63d'
     - '#74b92e'
     - '#80b637'
-  brandStrength: 0
-  lightness: 0.5
+  brandStrength: 0.5
+  lightness: 1
   saturation: 0.5
   rhythmicContrast: 0.5
 purpose: []
